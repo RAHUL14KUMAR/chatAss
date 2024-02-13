@@ -9,9 +9,14 @@ Hi!  here i am develop a **CHATAPP** that any one can start chating without know
 
 # CONNECTION ENDPOINTS
 **To connect with the socket server opwn the terminal**
+
+ # STEP FOR BACKEND CONNECTION
+ **To connect with the socket server opwn the terminal**
  
 **cd backend**
+
 **npm start**
+
 our socket server will run now
 
 
