@@ -7,8 +7,7 @@ Hi!  here i am develop a **CHATAPP** that any one can start chating without know
 
 # TOOLS USED- Socket.io, React JS, Exxpress JS,Node JS
 
-# CONNECTION ENDPOINTS
-**To connect with the socket server opwn the terminal**
+
 
  # STEP FOR BACKEND CONNECTION
  **To connect with the socket server opwn the terminal**
@@ -19,13 +18,13 @@ Hi!  here i am develop a **CHATAPP** that any one can start chating without know
 
 our socket server will run now
 
-
-//////////////////////
+ # STEP FOR FRONTEND CONNECTION
 
 **To connect with the fronyend server open the new/another terminal**
 
 
 **cd fontend**
+
 **npm start**
 our frontend server will run now server will run now
 
