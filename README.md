@@ -26,5 +26,6 @@ our socket server will run now
 **cd fontend**
 
 **npm start**
+
 our frontend server will run now server will run now
 
