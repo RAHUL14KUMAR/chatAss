@@ -10,7 +10,7 @@ Hi!  here i am develop a **CHATAPP** that any one can start chating without know
 
 
  # STEP FOR BACKEND CONNECTION
- **To connect with the socket server opwn the terminal**
+ **To connect with the socket server open the terminal**
  
 **cd backend**
 
