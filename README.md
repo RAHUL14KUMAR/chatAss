@@ -14,6 +14,8 @@ Hi!  here i am develop a **CHATAPP** that any one can start chating without know
  
 **cd backend**
 
+**npm i**
+
 **npm start**
 
 our socket server will run now
@@ -24,6 +26,8 @@ our socket server will run now
 
 
 **cd fontend**
+
+**npm i**
 
 **npm start**
 
