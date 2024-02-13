@@ -25,7 +25,7 @@ our socket server will run now
 **To connect with the fronyend server open the new/another terminal**
 
 
-**cd fontend**
+**cd frontend**
 
 **npm i**
 
