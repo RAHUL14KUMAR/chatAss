@@ -5,9 +5,9 @@ Hi!  here i am develop a **CHATAPP** that any one can start chating without know
 **CURRENTLY NOW IT IS ONLY SUITABLE FOR DESKTOP VIEW**
 
 
-#TOOLS USED- Socket.io, React JS, Exxpress JS,Node JS
+# TOOLS USED- Socket.io, React JS, Exxpress JS,Node JS
 
-#CONNECTION ENDPOINTS
+# CONNECTION ENDPOINTS
 **To connect with the socket server opwn the terminal**
  
 **cd backend**
